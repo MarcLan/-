@@ -1,4 +1,4 @@
-## [0041]Terraform问题总结
+## Terraform问题总结
 
 - elb创建时，subnet要调用huawei_vpc_subnet.xxx.subnet_id，用huawei_vpc_subnet.xxx.id会报错找不到subnet资源
 

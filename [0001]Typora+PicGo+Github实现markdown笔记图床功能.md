@@ -1,4 +1,4 @@
-### Typora+PicGo+Github实现markdown笔记图床功能
+## Typora+PicGo+Github实现markdown笔记图床功能
 
 ---
 
