@@ -72,7 +72,7 @@
   :wq
   ```
 
-- 执行wordpress安装，确保执行命令时在wordpress-install.sh所在的目录下执行
+- 执行wordpress安装，确保执行命令时在wordpress-install.sh文件
 
   ```
   chmod +x wordpress-install.sh
